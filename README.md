@@ -28,7 +28,7 @@ training which helps to predict future price movement of next 3 minutes for each
 
 
 ## Visualization of  In-sample & Out-sample Accuracy
-![alt text](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/insample_acc.png)
+![spit_safe](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/insample_acc.png)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
