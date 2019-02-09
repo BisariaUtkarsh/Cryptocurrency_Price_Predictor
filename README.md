@@ -28,7 +28,7 @@ training which helps to predict future price movement of next 3 minutes for each
 
 
 ## Visualization of  In-sample & Out-sample Accuracy
-![spit_safe](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/insample_acc.png)
+![insample_acc](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/insample_acc.png)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -37,7 +37,7 @@ training which helps to predict future price movement of next 3 minutes for each
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-![alt text](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/insample_loss.png)
+![insample_loss](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/insample_loss.png)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -46,7 +46,7 @@ training which helps to predict future price movement of next 3 minutes for each
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-![alt text](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/outsample_acc.png)
+![outsample_acc](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/outsample_acc.png)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -55,4 +55,4 @@ training which helps to predict future price movement of next 3 minutes for each
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-![alt text](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/outsample_loss.png)
+![outsample_loss](https://github.com/BisariaUtkarsh/Cryptocurrency_Price_Predictor/blob/master/outsample_loss.png)
